@@ -97,7 +97,7 @@ const SeedForm: React.FC = () => {
           </td>
         </tr>
         <tr>
-          <td align="right">Mnemonic:</td>
+          <td align="right">Secret Recovery Phrase:</td>
           <td align="left">
           <textarea
             name="mnemonic"
